@@ -1,2 +1,2 @@
-# .You've spelled it wrong!
+# You've spelled it wrong!
 https://github.com/Astra-Interactive
